@@ -1,1 +1,1 @@
-### Quicky Multibranch Jenkins pipeline demo.
+### Multibranch Jenkins pipeline demo.
